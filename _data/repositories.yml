@@ -1,6 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - allanscosta
 
 github_repos:
   - AllanSCosta/InterDocker
