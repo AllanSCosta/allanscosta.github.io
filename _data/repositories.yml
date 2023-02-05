@@ -3,10 +3,6 @@ github_users:
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AllanSCosta/InterDocker
+  - AllanSCosta/semantic-protein-folding
+  - molecularmachines/moleculib
